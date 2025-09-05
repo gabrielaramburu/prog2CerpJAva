@@ -1,0 +1,21 @@
+# Compiled classes and build artifacts
+bin/
+target/
+*.class
+
+# Eclipse-specific project metadata and temporary files
+.classpath
+.project
+.settings/
+*.prefs
+.metadata/
+*.launch
+*.log
+
+# IDE-generated files (if applicable)
+.idea/
+*.iml
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
