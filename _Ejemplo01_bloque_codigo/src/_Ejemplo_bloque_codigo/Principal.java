@@ -1,5 +1,7 @@
 package _Ejemplo_bloque_codigo;
 
+import java.util.Random;
+
 public class Principal {
 
 	public static void main(String[] args) {
@@ -13,6 +15,7 @@ public class Principal {
         	suma = suma + b; 
         }
         
+
         System.out.println("Suma real: " + suma); // ¿Qué valor se imprime?
     }
 
