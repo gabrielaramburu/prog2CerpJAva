@@ -15,6 +15,7 @@ public class Principal {
 		Libro libro1 = new Libro("1", "titulo libro 1", "autor libro 1");
 		Libro libro2 = new Libro("2", "titulo libro 2", "autor libro 2");
 
+		
 		biblioteca.agregarLibro(libro1);
 		biblioteca.agregarLibro(libro2);
 		
