@@ -10,5 +10,10 @@ public class Principal {
 		
 		Gato g1 = new Gato("mishifu", 10);
 		g1.decirNombreyEdad();
+		
+		p1.saludar();
+		
+		g1.saludar();
+		
 	}
 }

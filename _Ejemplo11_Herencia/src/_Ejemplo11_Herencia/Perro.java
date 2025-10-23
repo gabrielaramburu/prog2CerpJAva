@@ -6,5 +6,8 @@ public class Perro extends Mascota {
 		super(nom, edad);
 	}
 	
-
+	@Override
+	public void saludar() {
+		System.out.println("gua gua");
+	}
 }

@@ -7,4 +7,8 @@ public class Gato extends Mascota{
 		// TODO Auto-generated constructor stub
 	}
 	
+	@Override
+	public void saludar() {
+		System.out.println("miau miau");
+	}
 }

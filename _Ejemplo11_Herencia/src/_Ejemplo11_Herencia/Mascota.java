@@ -13,4 +13,9 @@ public class Mascota {
 		System.out.println("Mi nombre es " + this.nombre 
 				+  " y tengo " + this.edad);
 	}
+	
+	public void saludar() {
+		System.out.println("saludando...");
+	}
+
 }
