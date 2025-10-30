@@ -9,4 +9,9 @@ public class Cuadrado extends Figura{
 		}
 	}
 
+	@Override
+	public float calcularArea( ) {
+		System.out.println("Calculo area cuadrado");
+		return (this.base * this.altura);
+	}
 }

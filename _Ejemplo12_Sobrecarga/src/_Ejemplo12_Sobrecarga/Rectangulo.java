@@ -8,7 +8,7 @@ public class Rectangulo extends Figura {
 	
 	@Override
 	public float calcularArea( ) {
-		System.err.println("Calculo area rectángulo");
+		System.out.println("Calculo area rectángulo");
 		return (this.base * this.altura);
 	}
 	
