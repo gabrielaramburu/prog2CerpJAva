@@ -1,3 +1,4 @@
+package antes;
 
 public class Empleado {
 	private String nombre;
